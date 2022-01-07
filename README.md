@@ -23,10 +23,8 @@ The purpose of this project is to allow a user to globally search a database for
 
 ## Final Product Image
 
-- Images of final product walkthrough<br>
-<img src="./assets/images/1.png" alt="Final Product" width="900">
-<img src="./assets/images/2.png" alt="Final Product" width="900">
-<img src="./assets/images/4.png" alt="Final Product" width="900">
+- Image of final product/app<br>
+<img src="./assets/ss1.png" alt="Final Product" width="900">
 
 ## User Story
 ```
